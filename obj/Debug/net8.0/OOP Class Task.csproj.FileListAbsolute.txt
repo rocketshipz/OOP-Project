@@ -1,0 +1,29 @@
+C:\Users\user\source\repos\OOP Class Task\bin\Debug\net8.0\OOP Class Task.exe
+C:\Users\user\source\repos\OOP Class Task\bin\Debug\net8.0\OOP Class Task.deps.json
+C:\Users\user\source\repos\OOP Class Task\bin\Debug\net8.0\OOP Class Task.runtimeconfig.json
+C:\Users\user\source\repos\OOP Class Task\bin\Debug\net8.0\OOP Class Task.dll
+C:\Users\user\source\repos\OOP Class Task\bin\Debug\net8.0\OOP Class Task.pdb
+C:\Users\user\source\repos\OOP Class Task\obj\Debug\net8.0\OOP Class Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\OOP Class Task\obj\Debug\net8.0\OOP Class Task.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\OOP Class Task\obj\Debug\net8.0\OOP Class Task.AssemblyInfo.cs
+C:\Users\user\source\repos\OOP Class Task\obj\Debug\net8.0\OOP Class Task.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OOP Class Task\obj\Debug\net8.0\OOP Class Task.dll
+C:\Users\user\source\repos\OOP Class Task\obj\Debug\net8.0\refint\OOP Class Task.dll
+C:\Users\user\source\repos\OOP Class Task\obj\Debug\net8.0\OOP Class Task.pdb
+C:\Users\user\source\repos\OOP Class Task\obj\Debug\net8.0\OOP Class Task.genruntimeconfig.cache
+C:\Users\user\source\repos\OOP Class Task\obj\Debug\net8.0\ref\OOP Class Task.dll
+C:\Users\user\Source\Repos\OOP-Project\bin\Debug\net8.0\OOP Class Task.exe
+C:\Users\user\Source\Repos\OOP-Project\bin\Debug\net8.0\OOP Class Task.deps.json
+C:\Users\user\Source\Repos\OOP-Project\bin\Debug\net8.0\OOP Class Task.runtimeconfig.json
+C:\Users\user\Source\Repos\OOP-Project\bin\Debug\net8.0\OOP Class Task.dll
+C:\Users\user\Source\Repos\OOP-Project\bin\Debug\net8.0\OOP Class Task.pdb
+C:\Users\user\Source\Repos\OOP-Project\obj\Debug\net8.0\OOP Class Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\OOP-Project\obj\Debug\net8.0\OOP Class Task.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\OOP-Project\obj\Debug\net8.0\OOP Class Task.AssemblyInfo.cs
+C:\Users\user\Source\Repos\OOP-Project\obj\Debug\net8.0\OOP Class Task.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\OOP-Project\obj\Debug\net8.0\OOP Class Task.sourcelink.json
+C:\Users\user\Source\Repos\OOP-Project\obj\Debug\net8.0\OOP Class Task.dll
+C:\Users\user\Source\Repos\OOP-Project\obj\Debug\net8.0\refint\OOP Class Task.dll
+C:\Users\user\Source\Repos\OOP-Project\obj\Debug\net8.0\OOP Class Task.pdb
+C:\Users\user\Source\Repos\OOP-Project\obj\Debug\net8.0\OOP Class Task.genruntimeconfig.cache
+C:\Users\user\Source\Repos\OOP-Project\obj\Debug\net8.0\ref\OOP Class Task.dll
