@@ -10,6 +10,6 @@ class Programs
         transaction.setVal( 10.5f);
 
         Console.WriteLine("transaction value is " + transaction.getVal() + " at time " + transaction.getDate().ToString());
-        Console.WriteLine("HIHI");
+        Console.WriteLine("Byee");
     }
 }
